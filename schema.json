@@ -1,0 +1,43 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#BusArrivalv2/@Element",
+    "BusStopCode": "16181",
+    "Services": [
+        {
+            "ServiceNo": "151",
+            "Operator": "SBST",
+            "NextBus": {
+                "OriginCode": "64009",
+                "DestinationCode": "16009",
+                "EstimatedArrival": "2021-01-01T13:35:25+08:00",
+                "Latitude": "1.3279033333333334",
+                "Longitude": "103.77677916666667",
+                "VisitNumber": "1",
+                "Load": "SEA",
+                "Feature": "",
+                "Type": "SD"
+            },
+            "NextBus2": {
+                "OriginCode": "64009",
+                "DestinationCode": "16009",
+                "EstimatedArrival": "2021-01-01T13:57:47+08:00",
+                "Latitude": "1.3259158333333334",
+                "Longitude": "103.83132933333333",
+                "VisitNumber": "1",
+                "Load": "SEA",
+                "Feature": "",
+                "Type": "SD"
+            },
+            "NextBus3": {
+                "OriginCode": "64009",
+                "DestinationCode": "16009",
+                "EstimatedArrival": "2021-01-01T14:07:08+08:00",
+                "Latitude": "1.3280411666666667",
+                "Longitude": "103.8695795",
+                "VisitNumber": "1",
+                "Load": "SEA",
+                "Feature": "",
+                "Type": "SD"
+            }
+        }
+    ]
+}
